@@ -16,3 +16,9 @@ C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-Tec
 C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\obj\Debug\MVVM-TechieSyed.csproj.CoreCompileInputs.cache
 C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\obj\Debug\MVVM-TechieSyed.exe
 C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\obj\Debug\MVVM-TechieSyed.pdb
+C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\bin\Debug\EntityFramework.dll
+C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\bin\Debug\EntityFramework.xml
+C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\obj\Debug\MVVM-TechieSyed_Content.g.cs
+C:\Users\WilliamCross\Documents\Personal\MVVM-Tutorials\MVVM-TechieSyed\MVVM-TechieSyed\obj\Debug\MVVM-TechieSyed.csproj.CopyComplete

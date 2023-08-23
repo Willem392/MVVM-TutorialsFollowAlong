@@ -85,16 +85,19 @@
                 Name="btnSearch"
                 Margin="5,8,8,5"
                 Padding="3,3,3,3"
+                Command="{Binding Path=SearchCommand}"
                 Content="SEARCH" />
             <Button
                 Name="btnUpdate"
                 Margin="5,8,8,5"
                 Padding="3,3,3,3"
+                Command="{Binding Path=UpdateCommand}"
                 Content="UPDATE" />
             <Button
                 Name="btnDelete"
                 Margin="5,8,8,5"
                 Padding="3,3,3,3"
+                Command="{Binding Path=DeleteCommand}"
                 Content="DELETE" />
         </StackPanel>
         <TextBlock
